@@ -1,3 +1,3 @@
 # midestino
 Mobile App Development Semester Project
-Basic GUI app with connectivity of Firebase Firestore Database.
+Basic GUI app with Database Firebase Firestore.
